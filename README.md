@@ -188,3 +188,5 @@ This concept is important for:
 ## 📄 License
 
 This project is open-source and free to use.
+
+<img width="620" height="582" alt="image" src="https://github.com/user-attachments/assets/f4fbeb84-86e5-458b-a71f-c7af8e6650a0" />
