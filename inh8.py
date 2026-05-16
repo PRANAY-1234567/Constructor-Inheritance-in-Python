@@ -10,4 +10,5 @@ class Inh8:
     def main():
         obj = Derived()
 
+
 Inh8.main()
